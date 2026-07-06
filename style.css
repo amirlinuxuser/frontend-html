@@ -60,3 +60,20 @@
             padding: 10px;
             width: 150px;
         }
+
+
+        .responsive-text {
+            background-color: aqua;
+            text-align: center;
+        }
+
+
+        @media (max-width: 768px) {
+            .responsive-text {
+                font-size: 16px;
+                padding: 10px;
+                color: #7c3800;
+                background-color: rgb(252, 90, 238);
+                text-align: start;
+            }
+        }
