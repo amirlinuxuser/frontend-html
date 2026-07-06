@@ -1,10 +1,11 @@
         /* This is where the "how to resize" happens */
         .custom-list {
+            color: white;
             width: 250px;
             /* Resizes the width of the box */
             font-size: 20px;
             /* Resizes the text */
-            background-color: #ff5b5b;
+            background-color: #59976b;
             padding: 20px;
         }
 
