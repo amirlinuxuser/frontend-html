@@ -12,3 +12,30 @@
         .custom-list li {
             margin-bottom: 10px;
             /* Adds space between items */
+
+        }
+
+        .intro {
+            color: white;
+            background-color: #59976b;
+            padding: 2px;
+        }
+
+        #description {
+            color: white;
+            border: 2px solid #000000;
+            padding: 50px;
+            background-color: #a9a7ce;
+            margin: 50px;
+            width: 110px;
+        }
+
+        .stylishtext {
+            color: #7c3800;
+            font-family: Verdana, Geneva, Tahoma, sans-serif font-size: 16px;
+            line-height: 1.5;
+            font-weight: bold;
+            text-align: center;
+            font-size: 24px;
+
+        }
