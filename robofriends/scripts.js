@@ -14,7 +14,7 @@ function createRobotCards(data) {
         card.classList.add('card')
 
         const img = document.createElement('img')
-        img.src = `https://robohash.org/${robot.id}?set=set2`
+        img.src = `https://robohash.org/${robot.id}?set=set1`
         img.alt = robot.name;
 
         const name = document.createElement('h2')
